@@ -46,3 +46,6 @@ instructed by Prof. Luyao Zhang at Duke Kunshan University, Spring 2025.”
  ## Acknowledgments:
 Special thanks to David Schaaf, Luyao Zhang, Dongping Liu, and Zichu Zhou
 
+This project has benefitted from the conversations at the Digital Technology for Sustainability Symposium at Duke Kunshan University on April 18. We especially thank Prof. Ming-Chun Huang for his insights that helped improve the work, and the conference organizers Profs. Luyao Zhang, Fan Liang, and Charles Chang for making the symposium happen.
+
+
