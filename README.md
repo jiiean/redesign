@@ -25,6 +25,9 @@ Documentation of Process, Research, and Exploration
 **Poster.pdf**
 Poster for project containing quick overview
 
+## SDG Goal Contribution
+
+My project works with SDG goal 6. Goal 6 focuses on clean water and sanitation with a focus on ensuring availability and sustainable management of water and sanitation for all. My project targets the availability portion of this goal to highlight how water levels have been dropping. It bring environmental awareness to the real problem of drinking water and promotes change.
 
 
 ## Usage
