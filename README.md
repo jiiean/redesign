@@ -27,7 +27,11 @@ Poster for project containing quick overview
 
 ## SDG Goal Contribution
 
-My project works with SDG goal 6. Goal 6 focuses on clean water and sanitation with a focus on ensuring availability and sustainable management of water and sanitation for all. My project targets the availability portion of this goal to highlight how water levels have been dropping. It bring environmental awareness to the real problem of drinking water and promotes change.
+My project works with SDG goal 6.
+
+![E_WEB_06](https://github.com/user-attachments/assets/ee55b178-6a47-41c4-8508-c4e4fc7ccef3)
+
+ Goal 6 focuses on clean water and sanitation with a focus on ensuring availability and sustainable management of water and sanitation for all. My project targets the availability portion of this goal to highlight how water levels have been dropping. It bring environmental awareness to the real problem of drinking water and promotes change.
 
 
 ## Usage
